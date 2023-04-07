@@ -108,10 +108,10 @@ Project Link: [Statistical Data Analysis](https://github.com/benajir-hub/Data-An
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Udemy](https://www.udemy.com/course/machinelearning/)
+* [Stackoverflow](https://stackoverflow.com/)
 * [Javatpoint](https://www.javatpoint.com/machine-learning)
 * [SuperDataScience](https://www.superdatascience.com/)
-* [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 
 
 
